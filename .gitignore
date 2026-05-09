@@ -1,0 +1,10 @@
+# Claude Code local settings
+.claude/
+
+# Backend build artifacts
+backend/.gradle/
+backend/build/
+
+# OS
+.DS_Store
+Thumbs.db
